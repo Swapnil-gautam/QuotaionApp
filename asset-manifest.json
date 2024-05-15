@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuotaionApp/static/css/main.e6c13ad2.css",
+    "main.js": "/QuotaionApp/static/js/main.ec2f288f.js",
+    "static/js/239.2b17afd9.chunk.js": "/QuotaionApp/static/js/239.2b17afd9.chunk.js",
+    "static/js/213.1c246440.chunk.js": "/QuotaionApp/static/js/213.1c246440.chunk.js",
+    "static/js/732.c35785e5.chunk.js": "/QuotaionApp/static/js/732.c35785e5.chunk.js",
+    "static/js/453.68693753.chunk.js": "/QuotaionApp/static/js/453.68693753.chunk.js",
+    "static/media/logo.png": "/QuotaionApp/static/media/logo.6c8a3e3652a3f5ce0d43.png",
+    "index.html": "/QuotaionApp/index.html",
+    "main.e6c13ad2.css.map": "/QuotaionApp/static/css/main.e6c13ad2.css.map",
+    "main.ec2f288f.js.map": "/QuotaionApp/static/js/main.ec2f288f.js.map",
+    "239.2b17afd9.chunk.js.map": "/QuotaionApp/static/js/239.2b17afd9.chunk.js.map",
+    "213.1c246440.chunk.js.map": "/QuotaionApp/static/js/213.1c246440.chunk.js.map",
+    "732.c35785e5.chunk.js.map": "/QuotaionApp/static/js/732.c35785e5.chunk.js.map",
+    "453.68693753.chunk.js.map": "/QuotaionApp/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ec2f288f.js"
+  ]
+}
